@@ -6,7 +6,7 @@ A minimalistic and interactive To-Do List web application built using HTML, CSS,
 
 - Add tasks dynamically
 - Remove tasks with a delete button
-- Simple and user-friendly UI
+- Simple and user-friendly UI 
 - Responsive design 
 
 ## 🛠️ Technologies Used
